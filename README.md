@@ -1,4 +1,4 @@
-# Business-Analyst-Job-Posting-Description-Analysis-Text-Analysis_Topic-Model
+### TextAnalysis-TopicModel-withJobPostingData
 
 In this project, we scraped business analyst positions in San Diego, Los Angeles, San Francisco and Mountain View at 2018/12/2 as our dataset for text analysis.
 
